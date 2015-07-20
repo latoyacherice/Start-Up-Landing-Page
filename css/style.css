@@ -2,7 +2,7 @@ body {
   padding: 0;
   margin: 0;
   border: 0;
-  background-color: LightGray;
+  background-color: #fff;
 }
 
 /** Navigation Section**/
@@ -73,19 +73,19 @@ padding-right: 15px;
   background-position: 50% 100%;
   background-repeat:no-repeat;
   background-size:cover;
-  height:45.938rem;
+  height:40rem;
 }
 
  .introduction-content {
   width: 500px;
   margin: 0 auto;
-  padding: 80px;
+  padding: 200px;
 }
 
 
 h1 {
   margin: 0;
-  padding: 0;
+  padding: 
   border: 0;
 }
 h1 {
@@ -127,3 +127,39 @@ button:hover {
   cursor: pointer;
   border-color: #cf3d0e;
 }
+
+.little-karma-content {
+  width: 1000px;
+  margin:0 auto;
+  padding: 110px;
+}
+
+.little-karma-content ul {
+  text-align: center;
+  padding: 10px;
+}
+
+.little-karma-content img {
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 30px;
+  border: 0;
+}
+.little-karma-content li {
+  text-decoration: none;
+  display: inline-block;
+  padding: 50px;
+}
+
+.little-karma-content h1 {
+color: #000;
+font-family: 'Roboto Condensed', sans-serif;
+font-size: 3em;
+}
+.little-karma-content li {
+ font-family: 'Open Sans Condensed', sans-serif;
+ font-size: 1.5em;
+}
+
+
+
